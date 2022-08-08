@@ -34,7 +34,7 @@ export const Modal = () => {
   return (
     <>
       <div className="modal">
-        <h2>Add Task</h2>
+        <h2>Add Task1</h2>
         <input type="text" onChange={handleChange} />
         <p>Description</p>
         <div className="iconContainer">
