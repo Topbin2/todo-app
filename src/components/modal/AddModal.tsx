@@ -36,7 +36,7 @@ export const Modal = () => {
       <div className="modal">
         <h2>Add Task1</h2>
         <input type="text" onChange={handleChange} />
-        <p>Description</p>
+        <p>Description111</p>
         <div className="iconContainer">
           <BsClockHistory />
           <AiOutlineTag />
